@@ -39,19 +39,7 @@ function App() {
    },1500)
   },[])
   return (
-    {isLoading ? <Skeleton/> : <>
-    <Header /> 
-    <FlashSale/>
-    <Stest slides={slides}/>
-    <PAstro pinfo={pinfo}/>
-    <img src={vector} alt="" />
-    <ManyProblemOneSolution/> 
-    <UserTestimonial/>
-    <img src={vector} alt="" />
-    <TopAstro/>
-    <Footer/>
-    
-    </>}
+  
 <>
 {/* <FlashC/> */}
 {/* <Testimonial/> */}

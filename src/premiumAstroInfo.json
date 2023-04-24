@@ -1,0 +1,95 @@
+[ 
+    { "p1":[
+        {
+        "id":0,
+        "rating":4.5,
+        "name":"Astrologer Ramraj",
+        "specialist":"Love, Business, Kundali",
+        "price":"10/min",
+        "online": "/images/pastro/online.svg",
+        "astroImage":"/images/pastro/pa1.svg"
+    },
+    {
+        "id":1,
+        "rating":4.5,
+        "name":"Astrologer Ramraj",
+        "specialist":"Love, Business, Kundali",
+        "price":"10/min",
+        "online": "/images/pastro/online.svg",
+        "astroImage":"/images/pastro/pa2.svg"
+    },
+    {
+        "id":2,
+        "rating":4.5,
+        "name":"Astrologer Ramraj",
+        "specialist":"Love, Business, Kundali",
+        "price":"10/min",
+        "online": "/images/pastro/online.svg",
+        "astroImage":"/images/pastro/pa3.svg"
+    }
+    ]
+
+},
+{
+    "p2":[
+        {
+            "id":3,
+            "rating":4.5,
+            "name":"Astrologer Ramraj",
+            "specialist":"Love, Business, Kundali",
+            "price":"10/min",
+            "online": "/images/pastro/online.svg",
+            "astroImage":"/images/pastro/pa4.svg"
+        },
+        {
+            "id":4,
+            "rating":4.5,
+            "name":"Astrologer Ramraj",
+            "specialist":"Love, Business, Kundali",
+            "price":"10/min",
+            "online": "/images/pastro/online.svg",
+            "astroImage":"/images/pastro/pa5.svg"
+        },
+        {
+            "id":5,
+            "rating":4.5,
+            "name":"Astrologer Ramraj",
+            "specialist":"Love, Business, Kundali",
+            "price":"10/min",
+            "online": "/images/pastro/online.svg",
+            "astroImage":"/images/pastro/pa6.svg"
+        }
+    ]
+},
+    {
+        "p3":[
+            {
+                "id":6,
+                "rating":4.5,
+                "name":"Astrologer Ramraj",
+                "specialist":"Love, Business, Kundali",
+                "price":"10/min",
+                "online": "/images/pastro/online.svg",
+                "astroImage":"/images/pastro/pa7.svg"
+            },
+            {
+                "id":7,
+                "rating":4.5,
+                "name":"Astrologer Ramraj",
+                "specialist":"Love, Business, Kundali",
+                "price":"10/min",
+                "online": "/images/pastro/online.svg",
+                "astroImage":"/images/pastro/pa1.svg"
+            },
+            {
+                "id":8,
+                "rating":4.5,
+                "name":"Astrologer Ramraj",
+                "specialist":"Love, Business, Kundali",
+                "price":"10/min",
+                "online": "/images/pastro/online.svg",
+                "astroImage":"/images/pastro/pa8.svg"
+            }
+        ]
+    }
+]

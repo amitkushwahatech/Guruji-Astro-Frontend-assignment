@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.rot{
+    animation: ke 40s linear infinite;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  @keyframes ke {
+    0%{
+      rotate: 0;
+    }
+    100%{
+      rotate: 360deg;
+    }
   }
-  to {
-    transform: rotate(360deg);
+
+  .suns2{
+    width: 100%;
+    height:100%;
+    position: relative;
   }
-}
+  .suns2 .so2{
+    width:100%;
+    height:100%;
+    position: relative;
+  }
+  .suns2 .su2{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    left:35%;
+    top: 0%;
+  }
+  .suns{
+    width: 100px;
+    height:100px;
+    position: relative;
+  }
+  .suns .so{
+    width:100%;
+    height:100%;
+    position: relative;
+  }
+  .suns .su{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    left:35%;
+    top: 4%;
+  }
+
+
+.hsbar
+  ::-webkit-scrollbar{
+    display: none;
+  }

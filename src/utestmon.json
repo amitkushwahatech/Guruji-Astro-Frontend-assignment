@@ -1,0 +1,26 @@
+[
+    {
+        "id":"0",
+        "avtar":"https://samar.dexignzone.com/xhtml/images/testimonials/pic1.jpg",
+        "name":"Harish Chandra",
+        "message":"Explore the Mysteries of the Universe with Our Expert Astrology Services Explore the Mysteries of the Universe with Our Expert Astrology ServicesExplore the Mysteries of the Universe with ",
+        "value":"3",
+        "status":"CEO founder"
+    },
+    {
+        "id":"1",
+        "avtar":"https://samar.dexignzone.com/xhtml/images/testimonials/pic2.jpg",
+        "name":"Balu Sharma",
+        "message":"Explore the Mysteries of the Universe with Our Expert Astrology Services Explore the Mysteries of the Universe with Our Expert Astrology ServicesExplore the Mysteries of the Universe with ",
+        "value":"4",
+        "status":"CEO founder"
+    },
+    {
+        "id":"2",
+        "avtar":"https://samar.dexignzone.com/xhtml/images/testimonials/pic3.jpg",
+        "name":"Raghav Swami",
+        "message":"Explore the Mysteries of the Universe with Our Expert Astrology Services Explore the Mysteries of the Universe with Our Expert Astrology ServicesExplore the Mysteries of the Universe with ",
+        "value":"5",
+        "status":"CEO founder"
+    }
+]
